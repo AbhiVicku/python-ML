@@ -1,4 +1,4 @@
 python-ML
 =========
 
-some randome Machine Learning codes in python
+Machine learning practice codes in python
